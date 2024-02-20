@@ -1,7 +1,7 @@
 <h1 align="center">Mirza Sufiyan Ahmad</h1>
 <h3 align="center">Web Developer || Undergraduate Computer Science Student at UET</h3>
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently working on **Uber Clone**
 
 - 🌱 I’m currently learning **JavaScript, Bootstrap, Database Systems and Operating Systems**
 
