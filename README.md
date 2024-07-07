@@ -1,9 +1,9 @@
 <h1 align="center">Mirza Sufiyan Ahmad</h1>
 <h3 align="center">Web Developer || Undergraduate Computer Science Student at UET</h3>
 
-- 🔭 I’m currently working on **Uber Clone**
+- 🔭 Web Intern at ENTSPOS DEVELOPERS INC.
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap, Database Systems and Operating Systems**
+- 🌱 I’m currently learning **MERN Next.js **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
