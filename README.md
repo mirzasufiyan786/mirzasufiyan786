@@ -3,7 +3,7 @@
 
 - 🔭 Web Intern at ENTSPOS DEVELOPERS INC.
 
-- 🌱 I’m currently learning **MERN Next.js **
+- 🌱 I'm currently learning the MERN stack (MongoDB, Express, React, Node.js), focusing on building full-stack web applications with robust backend and dynamic frontend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
